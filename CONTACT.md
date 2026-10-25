@@ -1,2 +1,3 @@
 # Головна
-nobody1@invalid
+Уточнення варіанта 8
+nobody@invalid
