@@ -1,2 +1,3 @@
 # Головна
-variant8@group.local
+Уточнення варіанта 8
+nobody@invalid
